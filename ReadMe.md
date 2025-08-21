@@ -14,18 +14,6 @@ Each project is built around real-world datasets and highlights my ability to ex
 
 ---
 
-Perfect 👍 I’ll rewrite your **README.md** completely with clean structure, project descriptions, and working notebook links.
-
-Here’s the final version ⬇️
-
----
-
-# 📊 Unified Mentor Data Analyst Internship Projects
-
-This repository contains my completed projects during the **Unified Mentor Data Analyst Internship**. Each project focuses on applying data analysis, machine learning, and visualization techniques to solve real-world problems.
-
----
-
 ## 🚀 Projects Overview
 
 ### 🌍 Project 1: Climate Change Impact Modeling
@@ -75,16 +63,6 @@ This repository contains my completed projects during the **Unified Mentor Data 
   👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project6-Uber-Trip-Analysis/Uber_Trip_Data_Analysis.ipynb)
 
 ---
-
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE).
-
----
-
-✅ Now, all **Open Notebook** links should work without 404 errors.
-
-Do you want me to also **add a “Quick Start” section** (how to clone repo and run notebooks) to make it more professional?
 
 ## 🛠 Tech Stack
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn, TensorFlow/Keras)  
