@@ -19,7 +19,7 @@ Each project is built around real-world datasets and highlights my ability to ex
 ### 🎬 Netflix Content Insights  
 Explored Netflix’s catalog to find patterns in content release trends, genres, and top-performing directors.  
 **Stack:** Pandas, Seaborn, Matplotlib, WordCloud  
-👉 [Open Notebook](./Project1-Netflix-Content-Analysis/Netflix_Content_Analysis.ipynb)  
+👉 [Open Notebook](./Project2-Netflix Data Analysis/Adimalla_Nithin_Siddhartha_Unified_Mentor_Netflix_Data_Analysis.ipynb)  
 
 ---
 
