@@ -20,7 +20,6 @@ Each project is built around real-world datasets and highlights my ability to ex
 
 * **Objective:** Analyze temperature, CO₂ levels, and environmental indicators to study climate change trends.
 * **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
-  👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project1-Climate-Change-Modeling/Climate_Change_Modeling.ipynb)
 
 ---
 
@@ -28,7 +27,6 @@ Each project is built around real-world datasets and highlights my ability to ex
 
 * **Objective:** Explore Netflix content trends by genre, release year, and regional distribution.
 * **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
-  👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project2-Netflix-Data-Analysis/Adimalla_Nithin_Siddhartha_Unified_Mentor_Netflix_Data_Analysis.ipynb)
 
 ---
 
@@ -36,7 +34,6 @@ Each project is built around real-world datasets and highlights my ability to ex
 
 * **Objective:** Predict stock price movements using deep learning (LSTM networks).
 * **Tech Stack:** Python, TensorFlow/Keras, NumPy, Pandas
-  👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project3-Stock-Market-Prediction/Stock_Market_Prediction.ipynb)
 
 ---
 
@@ -44,7 +41,6 @@ Each project is built around real-world datasets and highlights my ability to ex
 
 * **Objective:** Detect anomalies and classify web traffic patterns for cybersecurity.
 * **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib
-  👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project4-Web-Attack-Detection/Web_Attack_Traffic_Detection.ipynb)
 
 ---
 
@@ -52,7 +48,6 @@ Each project is built around real-world datasets and highlights my ability to ex
 
 * **Objective:** Forecast product demand to optimize supply chain operations.
 * **Tech Stack:** Python, Time Series Forecasting, Pandas, Matplotlib
-  👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project5-Supply-Chain-Demand/Supply_Chain_Demand_Forecasting.ipynb)
 
 ---
 
@@ -60,7 +55,6 @@ Each project is built around real-world datasets and highlights my ability to ex
 
 * **Objective:** Analyze and forecast Uber trip demand across different times and locations.
 * **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
-  👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project6-Uber-Trip-Analysis/Uber_Trip_Data_Analysis.ipynb)
 
 ---
 
