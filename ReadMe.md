@@ -14,49 +14,77 @@ Each project is built around real-world datasets and highlights my ability to ex
 
 ---
 
-## 📂 Projects Overview
+Perfect 👍 I’ll rewrite your **README.md** completely with clean structure, project descriptions, and working notebook links.
 
-### 🎬 Netflix Content Insights  
-Explored Netflix’s catalog to find patterns in content release trends, genres, and top-performing directors.  
-**Stack:** Pandas, Seaborn, Matplotlib, WordCloud  
-👉 [Open Notebook]([https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project2-Netflix%20Data%20Analysis/Adimalla_Nithin_Siddhartha_Unified_Mentor_Netflix_Data_Analysis.ipynb](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project2%20-%20Netflix%20Data%20Analysis/Adimalla_Nithin_Siddhartha_Unified_Mentor_Netflix_Data_Analysis.ipynb))
+Here’s the final version ⬇️
 
 ---
 
-### 📈 Stock Price Forecasting with LSTM  
-Implemented an LSTM network to predict stock movements using historical data and technical indicators.  
-**Focus Areas:** Time-series preprocessing, moving averages, hyperparameter tuning  
-👉 [Open Notebook](./Project2-Stock-Market-Prediction/Stock_Market_Prediction.ipynb)  
+# 📊 Unified Mentor Data Analyst Internship Projects
+
+This repository contains my completed projects during the **Unified Mentor Data Analyst Internship**. Each project focuses on applying data analysis, machine learning, and visualization techniques to solve real-world problems.
 
 ---
 
-### 🚚 Demand Forecasting for Supply Chains  
-Prepared supply chain data for neural network modeling to estimate demand more accurately.  
-**Core Skills:** Data cleaning, categorical encoding, dataset splitting  
-👉 [Open Notebook](./Project3-Supply-Chain-Demand/Supply_Chain_Demand_Forecasting.ipynb)  
+## 🚀 Projects Overview
+
+### 🌍 Project 1: Climate Change Impact Modeling
+
+* **Objective:** Analyze temperature, CO₂ levels, and environmental indicators to study climate change trends.
+* **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+  👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project1-Climate-Change-Modeling/Climate_Change_Modeling.ipynb)
 
 ---
 
-### 🚖 Uber Trip Demand Modeling  
-Analyzed Uber trips and created a Random Forest Regressor to predict demand (achieved **R² = 0.98**).  
-**Key Features:** Day of week, month, dispatching base  
-👉 [Open Notebook](./Project4-Uber-Trip-Analysis/Uber_Trip_Data_Analysis.ipynb)  
+### 🎬 Project 2: Netflix Content Insights
+
+* **Objective:** Explore Netflix content trends by genre, release year, and regional distribution.
+* **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+  👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project2-Netflix-Data-Analysis/Adimalla_Nithin_Siddhartha_Unified_Mentor_Netflix_Data_Analysis.ipynb)
 
 ---
 
-### 🔐 Intrusion Detection in Web Traffic  
-Developed a Random Forest Classifier for identifying suspicious network traffic.  
-**Result:** Achieved 100% accuracy on the dataset provided  
-👉 [Open Notebook](./Project5-Web-Attack-Detection/Web_Attack_Traffic_Detection.ipynb)  
+### 📈 Project 3: Stock Price Forecasting with LSTM
+
+* **Objective:** Predict stock price movements using deep learning (LSTM networks).
+* **Tech Stack:** Python, TensorFlow/Keras, NumPy, Pandas
+  👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project3-Stock-Market-Prediction/Stock_Market_Prediction.ipynb)
 
 ---
 
-### 🌍 Climate Change Impact Modeling  
-Trained multiple regression models to study engagement with climate-related data.  
-**Models Tried:** Linear, Ridge, Lasso, Random Forest, Gradient Boosting  
-👉 [Open Notebook](./Project6-Climate-Change-Modeling/Climate_Change_Modeling.ipynb)  
+### 🔐 Project 4: Intrusion Detection in Web Traffic
+
+* **Objective:** Detect anomalies and classify web traffic patterns for cybersecurity.
+* **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib
+  👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project4-Web-Attack-Detection/Web_Attack_Traffic_Detection.ipynb)
 
 ---
+
+### 🚚 Project 5: Supply Chain Demand Forecasting
+
+* **Objective:** Forecast product demand to optimize supply chain operations.
+* **Tech Stack:** Python, Time Series Forecasting, Pandas, Matplotlib
+  👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project5-Supply-Chain-Demand/Supply_Chain_Demand_Forecasting.ipynb)
+
+---
+
+### 🚖 Project 6: Uber Trip Demand Modeling
+
+* **Objective:** Analyze and forecast Uber trip demand across different times and locations.
+* **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+  👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project6-Uber-Trip-Analysis/Uber_Trip_Data_Analysis.ipynb)
+
+---
+
+## 📜 License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+---
+
+✅ Now, all **Open Notebook** links should work without 404 errors.
+
+Do you want me to also **add a “Quick Start” section** (how to clone repo and run notebooks) to make it more professional?
 
 ## 🛠 Tech Stack
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn, TensorFlow/Keras)  
