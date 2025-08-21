@@ -19,7 +19,7 @@ Each project is built around real-world datasets and highlights my ability to ex
 ### 🎬 Netflix Content Insights  
 Explored Netflix’s catalog to find patterns in content release trends, genres, and top-performing directors.  
 **Stack:** Pandas, Seaborn, Matplotlib, WordCloud  
-👉 [Open Notebook](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project2-Netflix%20Data%20Analysis/Adimalla_Nithin_Siddhartha_Unified_Mentor_Netflix_Data_Analysis.ipynb)
+👉 [Open Notebook]([https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project2-Netflix%20Data%20Analysis/Adimalla_Nithin_Siddhartha_Unified_Mentor_Netflix_Data_Analysis.ipynb](https://github.com/Nithin-Siddhartha/Unified-Mentor-Data-Analyst-Internship-Projects/blob/main/Project2%20-%20Netflix%20Data%20Analysis/Adimalla_Nithin_Siddhartha_Unified_Mentor_Netflix_Data_Analysis.ipynb))
 
 ---
 
